@@ -1,5 +1,5 @@
 # Digital-Signal-Processing
 
-homework in branch ***homework***
+homework files are in branch ***homework***
 
-note in branch ***note***
+note and textbooks are in branch ***note***
