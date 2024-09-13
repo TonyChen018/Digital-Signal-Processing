@@ -2,4 +2,4 @@
 
 homework files are in branch ***homework***
 
-note and textbooks are in branch ***note***
+notes, summations and textbooks are in branch ***note***
